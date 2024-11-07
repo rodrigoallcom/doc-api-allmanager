@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "API AllManager",
+  "name": "API Allcom Telecom",
   "logo": {
     "dark": "/logo/logo_allcom_branco.png",
     "light": "/logo/logo_allcom.png"
@@ -17,23 +17,19 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "Suporte",
+      "url": "desenvolvimento@allcomtelecom.com"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "API AllManager",
+      "url": "api-allmanager"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentação",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },

@@ -1,5 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
+  "theme": "prism",
   "name": "API Allcom Telecom",
   "logo": {
     "dark": "/logo/logo_allcom_branco.png",
@@ -18,7 +19,7 @@
   "topbarLinks": [
     {
       "name": "Suporte",
-      "url": "desenvolvimento@allcomtelecom.com"
+      "url": "malito:desenvolvimento@allcomtelecom.com"
     }
   ],
   "topbarCtaButton": {
@@ -33,19 +34,14 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "AllManager",
+      "icon": "desktop",
+      "url": "https://allmanager.com.br"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Astro Install",
+      "icon": "car-building",
+      "url": "https://astroinstall.com.br"
     }
   ],
   "navigation": [

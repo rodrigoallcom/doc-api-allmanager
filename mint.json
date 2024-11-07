@@ -9,11 +9,11 @@
   "favicon": "/icone_allcom.png",
   "colors": {
     "primary": "#6b0d93",
-    "light": "#07c983",
-    "dark": "#0D9373",
+    "light": "#8807c9",
+    "dark": "#0d9373",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#0d9373",
+      "to": "#8807c9"
     }
   },
   "topbarLinks": [

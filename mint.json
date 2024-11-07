@@ -22,10 +22,6 @@
       "url": "malito:desenvolvimento@allcomtelecom.com"
     }
   ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
-  },
   "tabs": [
     {
       "name": "API Reference",

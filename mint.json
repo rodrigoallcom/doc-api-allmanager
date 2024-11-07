@@ -28,12 +28,12 @@
   },
   "tabs": [
     {
-      "name": "API AllManager",
-      "url": "api-reference/allmanager"
+      "name": "API Reference",
+      "url": "api-reference"
     },
     {
-      "name": "API Astro Install",
-      "url": "api-reference/astroinstall"
+      "name": "API AllManager",
+      "url": "api-reference/allmanager"
     }
   ],
   "anchors": [

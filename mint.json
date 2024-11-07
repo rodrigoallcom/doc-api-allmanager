@@ -21,15 +21,19 @@
       "url": "desenvolvimento@allcomtelecom.com"
     }
   ],
+  "topbarCtaButton": {
+    "name": "Dashboard",
+    "url": "https://dashboard.mintlify.com"
+  },
   "tabs": [
     {
-      "name": "API AllManager",
-      "url": "api-allmanager"
+      "name": "API Reference",
+      "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentação",
+      "name": "Documentation",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
@@ -48,9 +52,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "introducao",
-        "allmanager",
-        "astroinstall"
+        "introduction",
+        "quickstart",
+        "development"
       ]
     },
     {
